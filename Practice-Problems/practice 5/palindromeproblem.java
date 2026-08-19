@@ -19,15 +19,15 @@ public class palindromeproblem {
     
     public static void main(String[] args) {
 
-        System.out.print("Enter a palindrome integer : ");
+        System.out.print("Enter a Palindrome Integer : ");
         Scanner sc = new Scanner(System.in);
        
         int palindrome = sc.nextInt();
 
-        if ((isPalindrome(palindrome))) {
-            System.out.println("Number : " +palindrome+ " is palindrome");
+        if (isPalindrome(palindrome)) {
+            System.out.println("Number : " +palindrome+ " is Palindrome");
         }else{
-            System.out.println("Number : " +palindrome+ " is not a palindrome");
+            System.out.println("Number : " +palindrome+ " is not Palindrome");
         }
 
         sc.close();
