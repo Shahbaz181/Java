@@ -24,3 +24,5 @@ public class RA {
         System.out.println();
     }
 }
+
+// time complexity O(n) and space complexity O(1)

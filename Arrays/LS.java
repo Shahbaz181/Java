@@ -45,5 +45,6 @@ public class LS {
 }
 
 
-// time complexicity of linear search is O(n) 
-// time complexicity is directly proportional to loops
+// time complexity of linear search is O(n) 
+// space complexity of linear search is O(1)
+// time complexity is directly proportional to loops

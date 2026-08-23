@@ -17,3 +17,5 @@ public class pairs {
         Pairs(numbers);
     }
 }
+
+// time complexity O(n^2) and space complexity O(1)

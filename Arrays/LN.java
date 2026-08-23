@@ -22,3 +22,5 @@ public class LN {
         System.out.println("Largest Number is : " + LargestNumber(numbers));
     }     
 }
+
+// time complexity O(n) and space complexity O(1)

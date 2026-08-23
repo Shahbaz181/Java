@@ -25,3 +25,5 @@ public class BS {
         System.out.println("The key is fount at index : " +BinarySearch(numbers, key));
     }
 }
+
+// time complexity O(logn) and space complexity O(1)
