@@ -15,7 +15,7 @@ The topics below will be added gradually as I learn and practice them:
 * [x] Loops & Flow Control
 * [x] Functions / Methods
 * [x] Pattern Programs
-* [ ] Arrays
+* [x] Arrays
 * [ ] Strings
 * [ ] Object-Oriented Programming (OOP)
 * [ ] Exception Handling
